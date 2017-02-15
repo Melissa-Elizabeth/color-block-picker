@@ -1,0 +1,34 @@
+.coloredBoxes {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+
+#redBox {
+    background-color: red;
+}
+
+#pinkBox {
+    background-color: pink;
+}
+#orangeBox {
+    background-color: orange;
+}
+
+#yellowBox {
+    background-color: yellow;
+}
+
+#greenBox {
+    background-color: green;
+}
+
+#blueBox {
+    background-color: blue ;
+}
+
+#purpleBox {
+    background-color: purple;
+}
